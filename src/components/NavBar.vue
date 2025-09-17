@@ -4,7 +4,7 @@
       <div class="brand">
         <img src="@/assets/thesagebody-logo.png" alt="The Sage Body Massage Therapy Logo">
         <div class="text">
-          <h1>The Sage Body</h1>
+          <h1>Sage Body Place</h1>
           <h2>Licensed Massage Therapy</h2>
         </div>
       </div>
