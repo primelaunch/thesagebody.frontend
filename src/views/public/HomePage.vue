@@ -5,7 +5,7 @@
     <div class="hero">
       <div class="copy">
         <h1 class="uvp">
-          Release Your Tension
+          Release Tension & Feel Better
         </h1>
         
         <div class="message">
