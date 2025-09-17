@@ -1,13 +1,14 @@
 <template>
   <nav :class="{ 'scrolled': isScrolled }">
     <div class="nav-container">
+        <router-link to="/">
       <div class="brand">
         <img src="@/assets/thesagebody-logo.png" alt="The Sage Body Massage Therapy Logo">
         <div class="text">
           <h1>Sage Body Place</h1>
           <h2>Licensed Massage Therapy</h2>
         </div>
-      </div>
+      </div></router-link>
       
       <div class="nav-links" :class="{ 'active': mobileMenuOpen }">
         <router-link to="/" @click="closeMobileMenu">Home</router-link>
