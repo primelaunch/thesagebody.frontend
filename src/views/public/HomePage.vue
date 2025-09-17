@@ -103,15 +103,13 @@
   align-items: center;
   position: relative;
   z-index: 1;
-  padding: 2rem;
+  padding: 2rem 0;
 
   .copy {
     color: #ffd0b0;
     border-radius: 16px;
     width: 100%;
-    max-width: 800px;
     background: rgba(#190a00, 0.9);
-    backdrop-filter: blur(10px);
     padding: 3rem;
     display: flex;
     flex-direction: column;
