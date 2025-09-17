@@ -12,7 +12,7 @@
           <p class="intro-text">Are you overstressed or overworked? A Proper Massage Might Help...</p>
           
           <div class="benefits-section">
-            <h2>Experience Relief at <span class="brand-accent">The Sage Body</span></h2>
+            <h2>Experience Relief at <span class="brand-accent">Sage Body Place</span></h2>
             
             <div class="benefits-grid">
               <div class="benefit-item">
